@@ -20,7 +20,7 @@ Ky projekt eshte nje aplikacion web full-stack i ndertuar duke perdorur teknolog
 2. Instaloni varesite:
 
    ```bash
-   ban install (prferohet per shkak te shpejtesise qe ofron)
+   bun install (prferohet per shkak te shpejtesise qe ofron)
    # ose
    npm install
    # ose
