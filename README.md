@@ -14,7 +14,7 @@ Ky projekt eshte nje aplikacion web full-stack i ndertuar duke perdorur teknolog
 1. Klononi projektin:
 
    ```bash
-   git clone https://github.com/md0011/Doctor-Appointment-System
+   git clone https://github.com/Omega-me/web-project-uet.git
    ```
 
 2. Instaloni varesite:
