@@ -74,3 +74,14 @@ Ky projekt eshte nje aplikacion web full-stack i ndertuar duke perdorur teknolog
 7. **Admini** mund te shikoje listen e **mjekeve** ku mund te heq te drejten per te qene mjek ne plateforme, te aprovoje kerkesen per tu bere mjek nese ka marre nje kerkese
 
 8. **Admini** mund te shikoje listen e te gjithe pordoruesve ku perfshihen **pacientet** dhe **mjeket** dhe mund tju bllokoje aksesin ne sistem nese thyhen rregullat e percaktuara.
+
+## Test accounts
+
+- Admin email:admin@gmail.com password:12345678
+- Doctor 1 email:doctor1@gmail.com password:12345678
+- Doctor 2 email:doctor2@gmail.com password:12345678
+- Doctor 3 email:doctor3@gmail.com password:12345678
+- Pacent 1 email:pacient1@gmail.com password:12345678
+- Pacent 2 email:pacient2@gmail.com password:12345678
+- Pacent 3 email:pacient3@gmail.com password:12345678
+- Pacent 4 email:pacient4@gmail.com password:12345678
